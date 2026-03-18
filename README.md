@@ -55,19 +55,19 @@ Both engines run in a background thread to keep the GUI fully responsive during 
 
 **Multi-face group photo — selecting a specific face from the crowd**
 
-<img src="examples/img8.png" alt="FaceSwap - Multi-face group photo demo" width="100%"/>
+<img src="https://github.com/user-attachments/assets/287fda3f-4cbe-4459-83c3-6bc53bb819e6" alt="FaceSwap - Multi-face group photo demo" width="100%"/>
 
 <br/><br/>
 
 **Sports photo swap — athlete face replacement with background preservation**
 
-<img src="examples/img2.png" alt="FaceSwap - Sports photo demo" width="100%"/>
+<img src="https://github.com/user-attachments/assets/8d2c5a2d-94b4-419e-a003-d57609e51f09" alt="FaceSwap - Sports photo demo" width="100%"/>
 
 <br/><br/>
 
 **Portrait swap — clean single-face, high-fidelity result**
 
-<img src="examples/img5.png" alt="FaceSwap - Portrait demo" width="100%"/>
+<img src="https://github.com/user-attachments/assets/b882835c-ee67-46cd-85fc-d62d18e71c9a" alt="FaceSwap - Portrait demo" width="100%"/>
 
 </div>
 
@@ -78,13 +78,13 @@ Both engines run in a background thread to keep the GUI fully responsive during 
 Input photos and their corresponding swap outputs:
 
 <div align="center">
-  <img src="examples/img3.jpg" alt="Input A" width="49%"/>
-  <img src="examples/img4.jpg" alt="Input B" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/9bdf8da6-d63c-46e2-ba14-6958ea66ccf2" alt="Input A" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/237b8253-99ce-4a37-b80b-e884f37da59e" alt="Input B" width="49%"/>
   <br/>
   <sub>Input Image A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Input Image B</sub>
   <br/><br/>
-  <img src="examples/img6.jpg" alt="Result: Face A on Body B" width="49%"/>
-  <img src="examples/img7.jpg" alt="Result: Face B on Body A" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/32bcf872-a5e6-4685-9d84-c4626b518ce5" alt="Result: Face A on Body B" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/4829ecb4-1899-4275-97dc-7d85a1691bff" alt="Result: Face B on Body A" width="49%"/>
   <br/>
   <sub>Result: Face A → Body B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Result: Face B → Body A</sub>
 </div>
