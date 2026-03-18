@@ -22,8 +22,7 @@
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
-- [Screenshots](#-screenshots)
-- [Example Results](#-example-results)
+- [Screenshots & Results](#-screenshots--results)
 - [Features](#-features)
 - [System Requirements](#-system-requirements)
 - [Project Structure](#-project-structure)
@@ -49,19 +48,29 @@ Both engines run in a background thread to keep the GUI fully responsive during 
 
 ---
 
-## 🖥️ Screenshots
+## 🖥️ Screenshots & Results
 
 <div align="center">
 
 **Sports photo swap — athlete face replacement with background preservation**
 
 <img src="https://github.com/user-attachments/assets/2e281257-499e-45f6-a731-f0f592a5a1ac" alt="FaceSwap - Sports photo demo" width="100%"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/4fa0acc5-d0da-48d3-b2cb-7ceda2697aa1" alt="Input A" width="49%"/>
+<img src="https://github.com/user-attachments/assets/48329cae-c214-4316-9efb-babd85831a0c" alt="Input B" width="49%"/>
+<br/>
+<sub>Input Image A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Input Image B</sub>
 
 <br/><br/>
 
 **Portrait swap — clean single-face, high-fidelity result**
 
 <img src="https://github.com/user-attachments/assets/9da27c0c-245c-4b8a-b24f-03f582176e4a" alt="FaceSwap - Portrait demo" width="100%"/>
+<br/>
+<img src="https://github.com/user-attachments/assets/2b38eb1a-8e77-463a-b5cd-361ccbde73ae" alt="Result: Face A on Body B" width="49%"/>
+<img src="https://github.com/user-attachments/assets/49b617a7-8ad4-4560-b5c7-1eb7aa5dd595" alt="Result: Face B on Body A" width="49%"/>
+<br/>
+<sub>Result: Face A → Body B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Result: Face B → Body A</sub>
 
 <br/><br/>
 
@@ -69,26 +78,6 @@ Both engines run in a background thread to keep the GUI fully responsive during 
 
 <img src="https://github.com/user-attachments/assets/13421255-b159-45db-a628-861f521446d1" alt="FaceSwap - Multi-face group photo demo" width="100%"/>
 
-</div>
-
----
-
-## 📸 Example Results
-
-Input photos and their corresponding swap outputs:
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4fa0acc5-d0da-48d3-b2cb-7ceda2697aa1" alt="Input A" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/48329cae-c214-4316-9efb-babd85831a0c" alt="Input B" width="49%"/>
-  <br/>
-  <sub>Input Image A &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Input Image B</sub>
-  <br/><br/>
-  <img src="https://github.com/user-attachments/assets/2b38eb1a-8e77-463a-b5cd-361ccbde73ae" alt="Result: Face A on Body B" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/49b617a7-8ad4-4560-b5c7-1eb7aa5dd595" alt="Result: Face B on Body A" width="49%"/>
-  <br/>
-  <sub>Result: Face A → Body B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Result: Face B → Body A</sub>
-  <br/>
-  <sub>Result: Face A → Body B &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Result: Face B → Body A</sub>
 </div>
 
 ---
